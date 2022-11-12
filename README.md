@@ -1,10 +1,10 @@
 "# Math-Java" 
 
-"# All-KInd-of-MAthemetical-"
-
 I declared The Integer value ,i giving The(not declarted value) the string value, Float value.so,the error is showing.
 
 I have declared the integer value,but i have given the string or float value here.so,the InputmismatchException error is occuring.This program is used for the simple mathematical Calculations.It contains the set of built-in operators to perform the simple operations.Math class which contains methods for performing the advanced math calculations.The + operator performs an addition operation. The - operator performs an subtraction operation.The * operator is used to perform an Multiplication operation.The / operator is used to perform the division operation.The operator precedence determines the order in which the operator in an expressions are evaluated. In Floating point types are capable of containing fractions in the numbers.The Math.abs() function returns the absolute value of the parameter passed to it.The Math.ceil() function rounds a floating point value up to the nearest integer value.The Math.floor() function rounds a floating point value down to the nearest integer value.
+
+This Java code using for Math calculation.This is Calculate the All Kind of Calculation in one code This code get user inputput Two value and Calculate the value .This code multi calculation in one program. This code Calculate Math Operators, Math OperatorsPrecedence , Integer Math, Floating Point Math,Floating Point Precision,Basic Math Functions,Exponential and Logarithmic Math Functions,Trigonometric Math Functions.All calculation in one code.
 
 
 ![math 1](https://user-images.githubusercontent.com/117337498/201060800-ddd2e13a-0091-4c54-aaa7-b2ca60a063bc.JPG)
